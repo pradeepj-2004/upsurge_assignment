@@ -8,6 +8,8 @@ This repository contains a simulation and controller for a quadruped robot using
 **Note:**
 The controller script can be found in the robot_controller.cpp file within the src directory. It utilizes the ik_service script to compute inverse kinematics. The entire quadrupled_control package was developed by me for the assignment.
 
+The video demo of square path following is available in video folder.
+
 ---
 
 
